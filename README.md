@@ -1,2 +1,5 @@
 # School-Projects
-Discover data-driven projects highlighting analysis, prediction, and problem-solving skills: Diamond Prediction, Housing Sales Analysis, Diabetes Risk Prediction, and Bank Revenue Mitigation for a Portuguese Bank. Uncover value determinants, real estate trends, key risk factors, and strategies to combat revenue decline.
+**Diamond Prediction:** Predicting diamond qualities to uncover value determinants.
+**Housing Sales Analysis:** Exploring real estate trends and pricing factors.
+**Diabetes Risk Prediction:** Identifying key risk factors for diabetes development.
+**Bank Revenue Mitigation:** Mitigating revenue decline for a Portuguese Bank by targeting potential long-term deposit subscribers.
